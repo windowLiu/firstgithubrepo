@@ -4,3 +4,4 @@ hello world yueyue is strong
 Git has a mutable index called stage.
 aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
 bbbbbbbbbbbbbbbbbbbbbbbb
+My stupid boss still prefers SVN.
